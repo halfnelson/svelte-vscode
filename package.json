@@ -231,7 +231,7 @@
         "vscode": "^1.1.30"
     },
     "dependencies": {
-        "svelte-language-server": "0.10.3",
+        "svelte-language-server": "file:../svelte-language-server",
         "vscode-languageclient": "^5.0.1"
     }
 }
