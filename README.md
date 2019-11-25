@@ -162,3 +162,11 @@ Enable diagnostic messages for Svelte. _Default_: `true`
 ##### `svelte.plugin.svelte.format.enable`
 
 Enable formatting for Svelte (includes css & js). _Default_: `true`
+
+##### `svelte.plugin.tssvelte.enable`
+
+Enable TSSvelte plugin  _Default_: `true`
+
+##### `svelte.plugin.tssvelte.diagnostics.enable`
+
+Enable whole file diagnostics for svelte files (Experimental). _Default_: `true`

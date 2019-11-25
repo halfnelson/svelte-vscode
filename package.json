@@ -183,6 +183,18 @@
                     "default": true,
                     "title": "Svelte: Format",
                     "description": "Enable formatting for Svelte (includes css & js)"
+                },
+                "svelte.plugin.tssvelte.enable": {
+                    "type": "boolean",
+                    "default": true,
+                    "title": "TSSvelte: Enable",
+                    "description": "Enable the TSSvelte plugin"
+                },
+                "svelte.plugin.tssvelte.diagnostics.enable": {
+                    "type": "boolean",
+                    "default": true,
+                    "title": "TSSvelte: Diagnostics",
+                    "description": "Enable full file diagnostics from the TSSvelte plugin (Experimental)"
                 }
             }
         },
